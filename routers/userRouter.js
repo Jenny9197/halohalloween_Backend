@@ -64,14 +64,13 @@ userRouter.post('/auth', async(req, res) => {
 
 userRouter.post('/chkLogin', authMiddleWare, async(req, res) => {
     try {
-        const {user} = res.locals; //미들웨어에서 res.locals.user로 넘겨준 것
+        const {user} = res.locals; 
         
         res.status(201).send({
             user : {
               userNickname: user.userNickname, 
               userEmail: user.userEmail
-            }, //user  닉네임이랑 이메일을 객체를 보낸것
-              //await user = User.findByItem({key:value})
+            }, 
             Message: '로그인 확인 성공하였습니다.'
         })
         return;
