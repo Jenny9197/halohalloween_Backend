@@ -32,7 +32,7 @@ It is a small gathering project where you can meet people and share the joy of H
 	"printWidth": 80
   }
 ```
-## 데이터베이스 테이블 규칙
+## Database table rules
 
 1. Use uppercase letters for table names
 2. Meaningful table names can contain up to 2 words
@@ -63,7 +63,7 @@ It is a small gathering project where you can meet people and share the joy of H
 
 [Stack](https://www.notion.so/212431407ef94cbabd7a8a00caa967aa)
 
-# 5. 필요기능:
+# 5. Necessary Function:
 
 1. This is a description of the necessary functions (APIs).
 
@@ -83,7 +83,7 @@ Essential API
 - Edit post
 - Delete post
 
-### More - 기본적인 기능이 끝난후 구현해야할 기능들입니다
+### More - These are the functions to be implemented after the basic functions are finished.
 
 ---
 
