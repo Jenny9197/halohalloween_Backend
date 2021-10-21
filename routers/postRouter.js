@@ -42,7 +42,6 @@ Router.get('/postBest', async(req, res) => {
 })
 
 //게시글 등록 API
-
 Router.post('/posting', authMiddleWare, async(req, res) => {
   const {user} = res.locals
   const { postingTitle, postingDate, postingComment, postingImgUrl, postingDel } = req.body;
