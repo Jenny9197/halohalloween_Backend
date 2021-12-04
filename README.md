@@ -14,9 +14,9 @@ I.	Mini Project2 Period
 
 
 i.	Back-end
-•	이병관(leader) : Back-end & API(Structural planning and planning of setting work, userSchema, router, .env, server connection, middleware)
-•	안선호 : Back-end & API(Working on the main function)
-•	홍성현 : Back-end & API(Plan ideas and materialize concepts, postingSchema, replySchema), README.md
+•	이병관(leader) : Back-end & API
+•	안선호 : Back-end & API
+•	홍성현 : Back-end & API
 
 
 ii.	Front-end
